@@ -1,0 +1,64 @@
+breath = 11
+hp = 20
+name = singleplayer
+pitch = 64.5
+position = (-471.43,-3025,-31.18)
+version = 1
+yaw = 68.6
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:shovel_diamond 1 2480
+Item default:pick_diamond 1 21040
+Item default:cobble 99
+Item stairs:slab_junglewood
+Item stairs:stair_junglewood 10
+Item tnt:gunpowder 16
+Item default:cobble 7
+Item default:torch 24
+Item default:gold_lump
+Item default:diamond 8
+Item default:stick 3
+Item default:copper_lump 4
+Item default:iron_lump 16
+Item default:steel_ingot 83
+Item default:copper_ingot 28
+Item default:bronze_ingot 37
+Item default:cobble 99
+Empty
+Empty
+Empty
+Empty
+Item screwdriver:screwdriver 1 3619
+Item default:coal_lump 99
+Item default:obsidian
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Item default:mese_crystal 8
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

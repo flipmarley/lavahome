@@ -1,0 +1,64 @@
+breath = 11
+hp = 20
+name = Ben
+pitch = 6.69
+position = (-445.93,-3010,-117.41)
+version = 1
+yaw = 23.18
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:obsidian_glass 88
+Item default:torch 58
+Item default:steel_ingot 99
+Item flowers:viola 2
+Item default:coal_lump
+Item boats:boat
+Item default:ladder 99
+Item default:stick 63
+Item stairs:stair_wood 10
+Item stairs:slab_wood
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
