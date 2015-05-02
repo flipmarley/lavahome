@@ -1,5 +1,5 @@
-breath = 11
-hp = 9
+breath = 111
+hp = 99
 name = Ben
 pitch = -89.5
 position = (10.28,105,379.16)
@@ -8,36 +8,36 @@ yaw = -73.5898
 PlayerArgsEnd
 List main 32
 Width 0
-Item default:shovel_diamond 1 37920
-Item default:torch 67
+Item default:shovel_diamond
+Item default:torch 99
 Item farming:hoe_steel 1 2632
 Item default:axe_bronze 1 37268
 Item farming:hoe_bronze 1 17043
 Item screwdriver:screwdriver 1 13818
 Item default:pick_steel 1 10192
-Item default:ladder 19
-Item stairs:stair_wood 10
-Item stairs:slab_wood
+Item default:ladder 99
+Item stairs:stair_wood 99
+Item stairs:slab_wood 99
 Item default:gravel 11
-Item default:pick_steel
-Item default:pick_steel
+Item default:pick_diamond
+Item default:pick_diamond
 Item dye:violet 8
-Item default:coal_lump
-Item default:steel_ingot 88
-Item default:stick 53
+Item default:coal_lump 99
+Item default:steel_ingot 99
+Item default:stick 99
 Item default:dirt 22
 Item default:cobble 8
-Item default:obsidian
-Item default:shovel_steel
-Item default:brick 7
-Item xpanes:pane 2
-Item default:sapling 3
-Item default:leaves 13
-Item farming:seed_wheat 3
-Item default:grass_1 3
-Item default:iron_lump
-Item default:axe_wood 1 28392
-Item default:apple
+Item default:obsidian 99
+Item default:shovel_diamond
+Item default:brick 99
+Item xpanes:pane 99
+Item default:sapling 99
+Item default:leaves 33
+Item farming:seed_wheat 99
+Item default:grass_1 99
+Item default:iron_lump 99
+Item default:axe_diamond
+Item default:apple 99
 Empty
 Empty
 EndInventoryList
