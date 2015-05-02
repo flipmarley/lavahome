@@ -8,12 +8,12 @@ yaw = -15.42
 PlayerArgsEnd
 List main 32
 Width 0
-Item default:cobble 99
+Item default:stone 99
 Item default:dirt 43
-Item farming:hoe_steel 1 987
-Item default:shovel_bronze 1 182
-Item default:pick_bronze 1 56144
-Item default:cobble 99
+Item farming:hoe_diamond
+Item default:shovel_diamond
+Item default:pick_diamond
+Item default:stone 99
 Item default:coal_lump
 Item default:cobble 18
 Empty
